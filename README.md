@@ -2,7 +2,7 @@
 
 With this tool, you can change your Mac Address //////// Bu araçla Mac adresinizi değiştirebilirsiniz 
 
--i , --interface
+-i , --interface,
 -m , --mac
 
 Example;
